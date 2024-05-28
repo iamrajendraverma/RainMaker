@@ -11,3 +11,8 @@ This example demonstrates how to build a switch device to be used with ESP RainM
 ### Resetting the device
 - Press and Hold the Boot button for more than 3 seconds and then release to reset Wi-Fi configuration.
 - Press and Hold the Boot button for more than 10 seconds and then release to reset to factory defaults.
+
+### Below is the screenshot of product
+
+
+<img src="./demo.jpg"  width="400" height="300">
